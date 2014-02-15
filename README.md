@@ -3,7 +3,8 @@ qcalc
 
 simple quaternion calculator
 
-## Example Output
+Example Output:
+---------------
 
     inverse
     (1,2,1,2)^-1
